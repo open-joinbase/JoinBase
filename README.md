@@ -1,3 +1,10 @@
+<h1 align="center">JoinBase Community</h1>
+
+[![Website](https://img.shields.io/badge/https://-joinbase.io-blue.svg)](https://joinbase.io/)
+![](https://img.shields.io/github/stars/open-joinbase/JoinBase)
+![](https://img.shields.io/github/issues/open-joinbase/JoinBase)
+[![Slack Invite](https://img.shields.io/badge/Slack-Join-blue?logo=slack&labelColor=eea5d1)](https://join.slack.com/t/joinbaseworkspace/shared_invite/zt-1bizmnl2c-HaXl93gZ5Hnm_ukDAotZzg)
+
 ## JoinBase Community
 
 Welcome to JoinBase Community.
@@ -14,4 +21,3 @@ For better demonstrating our ambition and ability to serve this era, we decided 
 This program is limited to the first 20 companies who apply. If you are interested, please [apply here](https://cloud.joinbase.io/req) or via [email](mailto://contact@joinbase.io) directly.
 
 The members of "Big Bang Partner Program" will be permanently listed in the community.
-
