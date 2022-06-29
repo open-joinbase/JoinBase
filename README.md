@@ -3,6 +3,11 @@
 <div align="center">
 
   <a href="">[![Website](https://img.shields.io/badge/https://-joinbase.io-blue.svg)](https://joinbase.io/)</a>
+
+</div>
+
+<div align="center">
+
   <a href="">![](https://img.shields.io/github/stars/open-joinbase/JoinBase)</a>
   <a href="">![](https://img.shields.io/github/issues/open-joinbase/JoinBase)</a>
 
