@@ -1,9 +1,19 @@
 <h1 align="center">JoinBase Community</h1>
 
-[![Website](https://img.shields.io/badge/https://-joinbase.io-blue.svg)](https://joinbase.io/)
-![](https://img.shields.io/github/stars/open-joinbase/JoinBase)
-![](https://img.shields.io/github/issues/open-joinbase/JoinBase)
-[![Slack Invite](https://img.shields.io/badge/Slack-Join-blue?logo=slack&labelColor=eea5d1)](https://join.slack.com/t/joinbaseworkspace/shared_invite/zt-1bizmnl2c-HaXl93gZ5Hnm_ukDAotZzg)
+<div align="center">
+
+  <a href="">[![Website](https://img.shields.io/badge/https://-joinbase.io-blue.svg)](https://joinbase.io/)</a>
+  <a href="">![](https://img.shields.io/github/stars/open-joinbase/JoinBase)</a>
+  <a href="">![](https://img.shields.io/github/issues/open-joinbase/JoinBase)</a>
+
+</div>
+
+<div align="center">
+ 
+  <a href="">[![Slack Invite](https://img.shields.io/badge/Slack-Join-blue?logo=slack&labelColor=eea5d1)](https://join.slack.com/t/joinbaseworkspace/shared_invite/zt-1bizmnl2c-HaXl93gZ5Hnm_ukDAotZzg)</a>
+
+</div>
+
 
 ## JoinBase Community
 
