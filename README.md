@@ -15,7 +15,7 @@
 
 <div align="center">
  
-  <a href="">[![Slack Invite](https://img.shields.io/badge/Slack-Join-blue?logo=slack&labelColor=eea5d1)](https://join.slack.com/t/joinbaseworkspace/shared_invite/zt-1bizmnl2c-HaXl93gZ5Hnm_ukDAotZzg)</a>
+  <a href="">[![Slack Invite](https://img.shields.io/badge/Slack-Join-blue?logo=slack&labelColor=8b2671)](https://join.slack.com/t/joinbaseworkspace/shared_invite/zt-1bizmnl2c-HaXl93gZ5Hnm_ukDAotZzg)</a>
 
 </div>
 
