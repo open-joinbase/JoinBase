@@ -40,7 +40,7 @@ The community edition has the same functions as the enterprise edition, although
 
 Currently, we hope interested users can reach us by requesting the distribution explicitly via [application link](https://cloud.joinbase.io/req) or via [email](mailto://contact@joinbase.io). This greatly helps the early-phase growth of the product. We take this to build a sustainable business path to better serve all people and enterprises in this era. 
 
-When appropriate, we will provide a free release download for the community edition. Watch our community!💞
+When appropriate, we will provide the free release download for the community edition in this community. Watch our community!💞
 
 ## Big Bang Partner Program
 
