@@ -28,7 +28,7 @@ Welcome to JoinBase Community.
 
 We really hope to hear from users and help users to fix any problem. If you find some good features which JoinBase should support but not support now, don't hesitate to tell us what you think. We are honored to bring them for you.
 
-## Get the Open Product Community Edition
+## Get the Community Edition
 
 JoinBase's community edition now is a freeware: any people and company can use it free both for non-commercial and commercial purposes. 
 
