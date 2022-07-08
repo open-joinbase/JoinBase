@@ -1,4 +1,11 @@
-<h1 align="center">JoinBase Community</h1>
+<h1 align="center">
+<a href="https://JoinBase.io/">JoinBase</a> </h1>
+
+<h3 align="center">
+the first, fastest, end-to-end IoT database, freely to run on cloud or on edge as you like.
+ </h3>
+
+<br>
 
 <div align="center">
 
@@ -24,7 +31,6 @@
 
 Welcome to JoinBase Community.
 
-[JoinBase](https://JoinBase.io/) is the first, fastest, end-to-end IoT database, and is free to run on the cloud or on the edge as you like. 
 
 ## Get the Community Edition
 
