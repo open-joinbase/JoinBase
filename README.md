@@ -28,6 +28,15 @@ Welcome to JoinBase Community.
 
 We really hope to hear from users and help users to fix any problem. If you find some good features which JoinBase should support but not support now, don't hesitate to tell us what you think. We are honored to bring them for you.
 
+## Get the Open Product Community Edition
+
+JoinBase's community edition now is a freeware: any people and company can use it free both for non-commercial and commercial purposes. 
+
+The community edition has the same functions as the enterprise edition, although the services for two are different. We support the community edition in this community as best as possible. Feel free to request and send out any question here.
+
+Currently, we hope interested users can reach us by requesting the distribution explicitly via [the application link](). This greatly helps the early-phase growth of the product. We take this to build a sustainable business path to better serve all users in this era. 
+
+When appropriate, we will provide a free release download for the community edition. Watch our community!💞
 
 ## Big Bang Partner Program
 
