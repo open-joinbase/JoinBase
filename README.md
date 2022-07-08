@@ -24,9 +24,7 @@
 
 Welcome to JoinBase Community.
 
-[JoinBase](https://JoinBase.io/) is the first, fastest, end-to-end IoT Database. JoinBase wants to empower all people in this era through one idea - open product: the use to the product itself is free, services on the top of the use could be requested via the community freely or the commercial support.
-
-We really hope to hear from users and help users to fix any problem. If you find some good features which JoinBase should support but not support now, don't hesitate to tell us what you think. We are honored to bring them for you.
+[JoinBase](https://JoinBase.io/) is the first, fastest, end-to-end IoT database, and is free to run on the cloud or on the edge as you like. 
 
 ## Get the Community Edition
 
@@ -34,7 +32,7 @@ JoinBase's community edition now is a freeware: any people and company can use i
 
 The community edition has the same functions as the enterprise edition, although the services for two are different. We support the community edition in this community as best as possible. Feel free to request and send out any question here.
 
-Currently, we hope interested users can reach us by requesting the distribution explicitly via [the application link](https://cloud.joinbase.io/req). This greatly helps the early-phase growth of the product. We take this to build a sustainable business path to better serve all users in this era. 
+Currently, we hope interested users can reach us by requesting the distribution explicitly via [the application link](https://cloud.joinbase.io/req). This greatly helps the early-phase growth of the product. We take this to build a sustainable business path to better serve all people and enterprises in this era. 
 
 When appropriate, we will provide a free release download for the community edition. Watch our community!💞
 
