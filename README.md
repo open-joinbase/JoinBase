@@ -39,7 +39,7 @@ JoinBase's community edition now is a freeware: any people and company can use i
 
 The community edition has the same functions as the enterprise edition, although the services for two are different. We support the community edition in this community as best as possible. Feel free to request and send out any question here.
 
-Currently, we hope interested users can reach us by requesting the distribution explicitly via [application link](https://joinbase.io/request) or via [email](mailto://contact@joinbase.io). This greatly helps the early-phase growth of the product. We take this to build a sustainable business path to better serve all people and enterprises in this era. 
+Currently, we hope interested users can reach us by requesting the distribution explicitly via [the request page](https://joinbase.io/request) or via [email](mailto://contact@joinbase.io). This greatly helps the early-phase growth of the product. We take this to build a sustainable business path to better serve all people and enterprises in this era. 
 
 When appropriate, we will provide the free release download of the community edition.
 
