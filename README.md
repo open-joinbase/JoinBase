@@ -35,18 +35,13 @@ Welcome to JoinBase Community.
 
 ## Get the Community Edition
 
-JoinBase's community edition now is a freeware: any people and company can use it free both for non-commercial and commercial purposes. 
+JoinBase's community edition now is a freeware: any people and company can use it free both for non-commercial and commercial purposes (including cloud services). 
 
 The community edition has the same functions as the enterprise edition, although the services for two are different. We support the community edition in this community as best as possible. Feel free to request and send out any question here.
 
-Currently, we hope interested users can reach us by requesting the distribution explicitly via [application link](https://cloud.joinbase.io/req) or via [email](mailto://contact@joinbase.io). This greatly helps the early-phase growth of the product. We take this to build a sustainable business path to better serve all people and enterprises in this era. 
+Currently, we hope interested users can reach us by requesting the distribution explicitly via [application link](https://joinbase.io/request) or via [email](mailto://contact@joinbase.io). This greatly helps the early-phase growth of the product. We take this to build a sustainable business path to better serve all people and enterprises in this era. 
 
-When appropriate, we will provide the free release download for the community edition in this community. Watch our community!💞
+When appropriate, we will provide the free release download of the community edition.
 
-## Big Bang Partner Program
+Watch our community!💞
 
-For better demonstrating our ambition and ability to serve this era, we decided to launch our first program - "Big Bang Partner Program": the members in the program get all the services in [Enterprise Discovery edition](https://joinbase.io/pricing/) free forever in the whole life cycle. 
-
-This program is limited to the first 20 companies who apply. If you are interested, please [apply here](https://cloud.joinbase.io/req) or via [email](mailto://contact@joinbase.io) directly.
-
-The members of "Big Bang Partner Program" will be permanently listed in the community.
