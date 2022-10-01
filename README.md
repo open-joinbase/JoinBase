@@ -23,7 +23,6 @@ the first, fastest, end-to-end IoT database, freely to run on cloud or on edge a
 <div align="center">
  
   <a href="">[![Slack Invite](https://img.shields.io/badge/Slack-Join-blue?logo=slack&labelColor=8b2671)](https://join.slack.com/t/joinbaseworkspace/shared_invite/zt-1bizmnl2c-HaXl93gZ5Hnm_ukDAotZzg)</a>
-  <a href="https://www.reddit.com/r/joinbase"><img src="https://img.shields.io/badge/dynamic/json.svg?label=r/JoinBase%20subscribers&color=red&style=flat-square&query=$.data.subscribers&url=https://www.reddit.com/r/joinbase/about.json" alt="Reddit subscribers"></a>
 
 </div>
 
