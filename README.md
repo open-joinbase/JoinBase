@@ -31,6 +31,9 @@ the first, fastest, end-to-end IoT database, freely to run on cloud or on edge a
 
 Welcome to JoinBase Community.
 
+## ChangeLog 
+
+Watch the [changeLog](/CHANGELOG.md) for the latest updating to the products and communities.
 
 ## Get the Community Edition
 
