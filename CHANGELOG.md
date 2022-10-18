@@ -1,6 +1,8 @@
 # Changelog
 
-## 2022.10
+## 2022.10.1
+* docs
+  + polished website
 
 ## 2022.07.1
 * core
