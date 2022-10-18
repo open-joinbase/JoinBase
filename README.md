@@ -3,7 +3,7 @@
 
 <h3 align="center">
 the first, fastest, end-to-end IoT database, freely to run on cloud or on edge as you like.
- </h3>
+</h3>
 
 <br>
 
@@ -45,5 +45,6 @@ Currently, we hope interested users can reach us by requesting the distribution 
 
 When appropriate, we will provide the free release download of the community edition.
 
-Watch our community!💞
+## :revolving_hearts: Watch our community :revolving_hearts:
 
+![Watch our community](https://user-images.githubusercontent.com/79301703/182365526-df074c64-cee4-45f6-b8e0-b912f17332c6.gif)
