@@ -26,14 +26,20 @@ the first, fastest, end-to-end IoT database, freely to run on cloud or on edge a
 
 </div>
 
+<div align="center">
+ 
+  <a href="">[![Discord Invite](https://img.shields.io/discord/1031840841226002522?style=plastic&labelColor=8b2671)](https://discord.gg/sqX6vfnURj)</a>
+
+</div>
+
 
 ## JoinBase Community
 
 Welcome to JoinBase Community.
 
-## ChangeLog 
+## Change Log 
 
-Watch the [changeLog](/CHANGELOG.md) for the latest updating to the products and communities.
+Watch the [change log](/CHANGELOG.md) for the latest updating to the products and communities.
 
 ## Get the Community Edition
 
