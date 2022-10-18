@@ -22,16 +22,10 @@ the first, fastest, end-to-end IoT database, freely to run on cloud or on edge a
 
 <div align="center">
  
+  <a href="">[![Discord Invite](https://img.shields.io/discord/1031840841226002522?logo=discord&labelColor=8b2671)](https://discord.gg/sqX6vfnURj)</a>
   <a href="">[![Slack Invite](https://img.shields.io/badge/Slack-Join-blue?logo=slack&labelColor=8b2671)](https://join.slack.com/t/joinbaseworkspace/shared_invite/zt-1bizmnl2c-HaXl93gZ5Hnm_ukDAotZzg)</a>
 
 </div>
-
-<div align="center">
- 
-  <a href="">[![Discord Invite](https://img.shields.io/discord/1031840841226002522?style=plastic&labelColor=8b2671)](https://discord.gg/sqX6vfnURj)</a>
-
-</div>
-
 
 ## JoinBase Community
 
