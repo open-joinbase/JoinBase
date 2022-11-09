@@ -1,5 +1,9 @@
 # Changelog
 
+## 2022.11
+* core
+  + full MQTT broker pub/sub has been supported, [read more](https://joinbase.io/blog/joinbase-as-mqtt-broker/)
+
 ## 2022.10.1
 * docs
   + polished website
