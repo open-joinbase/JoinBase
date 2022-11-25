@@ -1,6 +1,8 @@
 # Changelog
 
 ## 2022.11
+* frontend
+  + [ThingsBase](https://joinbase.io/blog/thingsbase/), the low-code platform for JoinBase is out.
 * core
   + full MQTT broker pub/sub has been supported, [read more](https://joinbase.io/blog/joinbase-as-mqtt-broker/)
 

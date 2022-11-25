@@ -2,7 +2,7 @@
 <a href="https://JoinBase.io/">JoinBase</a> </h1>
 
 <h3 align="center">
-the first, fastest, end-to-end IoT database, freely to run on cloud or on edge as you like.
+JoinBase, the AIoT Database for Everyone, for Free.
 </h3>
 
 <br>
