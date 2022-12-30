@@ -2,6 +2,16 @@
 
 ## 2022.11
 * frontend
+  + ThingsBase is renamed to SmartBase.
+* core
+  + New: add [HTTP interface](https://joinbase.io/docs/references/http/)
+  + New: add [WebSocket interface](https://joinbase.io/docs/references/websocket/)
+  + New: add custom [extensions](https://joinbase.io/docs/references/extensions/)
+  + New: add [topic alias](https://joinbase.io/docs/references/topics#topic-aliases)
+  + WIP: primary auto view support is ready
+
+## 2022.11
+* frontend
   + [ThingsBase](https://joinbase.io/blog/thingsbase/), the low-code platform for JoinBase is out.
 * core
   + full MQTT broker pub/sub has been supported, [read more](https://joinbase.io/blog/joinbase-as-mqtt-broker/)
