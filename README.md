@@ -31,20 +31,26 @@ JoinBase, the AIoT Database for Everyone, for Free.
 
 Welcome to JoinBase Community.
 
-## :newspaper: Change Log :newspaper:
+## Download
 
-Watch the [change log](/CHANGELOG.md) for the latest updating to the products and communities.
+From JoinBase 2023.2, the community edition is publicly available.
 
-## :bento: Get the Community Edition :bento:
+Get latest releases in the porject's [release page](https://github.com/open-joinbase/JoinBase/releases).
 
-JoinBase's community edition now is a freeware: any people and company can use it free both for non-commercial and commercial purposes (including cloud services). 
+More [installation guide and prerequisites](https://joinbase.io/docs/references/install). 
 
-The community edition has the same functions as the enterprise edition, although the services are different. We support the community edition in the community as best as possible. Feel free to request and send out any question here.
+JoinBase's community edition is provided under the [Commuity Edition License Agreement](https://joinbase.io/community_license): any people and company can use it free both for non-commercial and commercial purposes (including cloud services). 
 
-Currently, we hope interested users can reach us by requesting the distribution explicitly via [the request page](https://joinbase.io/request) or via [email](mailto://contact@joinbase.io). This greatly helps the early-phase growth of the product. We take this to build a sustainable business path to better serve all people and enterprises in this era. 
+The community edition has the same functions as the enterprise edition but without HA(High Availability) support. We crush competitors in the edge performance, if you don't require 100% HA, the community edition is enough, even for commercial services. 
 
-When appropriate, we will provide the free release download of the community edition in the community.
+## Release Notes
+
+New version of the community edition is released in a time rhythm, and the version number of the community edition is based on that time rhythm. Currently the release cycle is one month.
+
+It is recommended that users always use the latest release. Version compatibility will be maintained as much as possible. In JoinBase, the version compatibility means: users only need to simply replace the binary and restart to complete the upgrade. If one release is incompatible with the previous version, it will be declared in that release note and a solution will be provided.
 
 ## :revolving_hearts: Watch our community :revolving_hearts:
+
+Appreciated if you can watch our community.
 
 ![Watch our community](https://user-images.githubusercontent.com/79301703/182365526-df074c64-cee4-45f6-b8e0-b912f17332c6.gif)
