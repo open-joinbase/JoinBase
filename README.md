@@ -2,7 +2,7 @@
 <a href="https://JoinBase.io/">JoinBase</a> </h1>
 
 <h3 align="center">
-JoinBase, the AIoT Database for Everyone, for Free.
+JoinBase, a single binary AIoT-first data-service platform.
 </h3>
 
 <br>
@@ -30,6 +30,10 @@ JoinBase, the AIoT Database for Everyone, for Free.
 ## JoinBase Community
 
 Welcome to JoinBase Community.
+
+
+## [Why you should use JoinBase](https://joinbase.io/)
+
 
 ## Download
 
