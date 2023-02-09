@@ -27,10 +27,7 @@ JoinBase, a single binary AIoT-first data-service platform.
 
 </div>
 
-## Welcome to JoinBase Community
-
-## [Why you should use JoinBase](https://joinbase.io/)
-
+# Welcome to JoinBase Community
 
 ## Download
 
