@@ -24,7 +24,7 @@ JoinBase, a single binary AIoT-first data-service platform.
  
   <a href="">[![Discord Invite](https://img.shields.io/discord/1031840841226002522?logo=discord&labelColor=8b2671)](https://discord.gg/sqX6vfnURj)</a>
   <a href="">[![Slack Invite](https://img.shields.io/badge/Slack-Join-blue?logo=slack&labelColor=8b2671)](https://join.slack.com/t/joinbaseworkspace/shared_invite/zt-1bizmnl2c-HaXl93gZ5Hnm_ukDAotZzg)</a>
-  <a href="">[![WeChat Invite](https://img.shields.io/badge/WeChat-07C160?logo=wechat&labelColor=8b2671)](/imgs/joinbase_wetchat_group)</a>
+  <a href="">[![WeChat Invite](https://img.shields.io/badge/WeChat-07C160?logo=wechat&labelColor=8b2671)](/community/wechat.md)</a>
 
 </div>
 
