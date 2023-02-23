@@ -40,7 +40,7 @@ Get JoinBase with Docker and more about installation: [installation guide and pr
 
 JoinBase's community edition is provided under the [Commuity Edition License Agreement](https://joinbase.io/community_license). Any people and company can use it free both for non-commercial and commercial purposes (including cloud services). 
 
-The community edition has the same functions as the enterprise edition but without HA(High Availability) support. We crush competitors in the edge performance, if you don't require 100% HA, the community edition is much enough, even for commercial services. 
+The community edition has the same functions as the enterprise edition but without HA(High Availability) support. We crush competitors in the single-node performance, if you don't require 100% HA, the community edition is much enough, even for commercial services. 
 
 ## Release Notes
 
