@@ -52,7 +52,7 @@ docker run --net=host -P -d joinbase/joinbase
 
 This command will start a JoinBase server wiht the default conf in a detached container by exposing all ports to your host.
 
-But **NOTE** that JoinBase has no `default user` concept at all, you should setup a user before going ahead by the following command:
+But **NOTE** that JoinBase has no `default user` concept, you should setup a user before going ahead by the following command:
 
 ```bash
 docker run --net=host --entrypoint /joinbase/base_admin -it joinbase/joinbase create_user abc
@@ -74,6 +74,6 @@ It is recommended that users always use the latest release. Version compatibilit
 
 ## :revolving_hearts: Watch our community :revolving_hearts:
 
-Appreciated if you can watch our community.
+Appreciated for your stars to connect with the community!
 
 ![Watch our community](https://user-images.githubusercontent.com/79301703/182365526-df074c64-cee4-45f6-b8e0-b912f17332c6.gif)
