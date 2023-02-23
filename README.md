@@ -42,29 +42,7 @@ JoinBase's community edition is provided under the [Commuity Edition License Agr
 
 The community edition has the same functions as the enterprise edition but without HA(High Availability) support. We crush competitors in the edge performance, if you don't require 100% HA, the community edition is enough, even for commercial services. 
 
-### Get JoinBase with Docker
-
-If you prefer the Docker way, try JoinBase with the above simplest command:
-
-```bash
-docker run --net=host -P -d joinbase/joinbase
-```
-
-This command will start a JoinBase server wiht the default conf in a detached container by exposing all ports to your host.
-
-But **NOTE** that JoinBase has no `default user` concept, you should setup a user before going ahead by the following command:
-
-```bash
-docker run --net=host --entrypoint /joinbase/base_admin -it joinbase/joinbase create_user abc
-```
-
-Just check the server by pinging with curl, like:
-```bash
-curl -v -s -H 'X-JoinBase-User: abc' -H 'X-JoinBase-Key: abc' -X GET 'http://127.0.0.1:8080/ping'
-```
-
-Finally, note that all data and change are inside of the container for above quick commands. They may disappear when that container ternimated. For production use, you should customize JoinBase's conf to use dedicated directories. A sample conf file named "base.conf" is provided with every release. Just dowload and customize it yourself.
-
+### [Get JoinBase with Docker](https://joinbase.io/docs/references/install)
 
 ## Release Notes
 
