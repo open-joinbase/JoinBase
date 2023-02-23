@@ -50,6 +50,6 @@ It is recommended that users always use the latest release. Version compatibilit
 
 ## :revolving_hearts: Watch our community :revolving_hearts:
 
-Appreciated for your stars to connect with the community!
+Really appreciated for your stars to connect with the community!
 
 ![Watch our community](https://user-images.githubusercontent.com/79301703/182365526-df074c64-cee4-45f6-b8e0-b912f17332c6.gif)
