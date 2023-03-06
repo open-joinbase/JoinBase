@@ -32,7 +32,7 @@ JoinBase, a single binary AIoT-first data-service platform.
 
 ## Download
 
-From JoinBase 2023.2, the community edition is publicly available.
+From JoinBase 2023.2, the Community edition is publicly available.
 
 Get latest releases in the porject's [release page](https://github.com/open-joinbase/JoinBase/releases).
 
@@ -40,7 +40,7 @@ Get JoinBase with Docker and more about installation: [installation guide and pr
 
 JoinBase's community edition is provided under the [Commuity Edition License Agreement](https://joinbase.io/community_license). Any people and company can use it free both for non-commercial and commercial purposes (including cloud services). 
 
-The community edition has the same functions as the enterprise edition but without HA(High Availability) support. We crush competitors in the single-node performance, if you don't require 100% HA, the community edition is much enough, even for commercial services. 
+The Community edition has the same functions as the Pro edition but without HA(High Availability) support. We crush competitors in the single-node performance, if you don't require 100% HA, the community edition is much enough, even for commercial services. 
 
 ## Release Notes
 
@@ -48,8 +48,14 @@ New version of the community edition is released in a time rhythm, and the versi
 
 It is recommended that users always use the latest release. Version compatibility will be maintained as much as possible. In JoinBase, the version compatibility means: users only need to simply replace the binary and restart to complete the upgrade. If one release is incompatible with the previous version, it will be declared in that release note and a solution will be provided.
 
+## JoinBase Friends
+
+[Join the community](https://joinbase.io/community/) to become a **JoinBase Friend**!
+
 ## :revolving_hearts: Watch our community :revolving_hearts:
 
-Really appreciated for your stars to connect with the community!
+Our team loves what we create and contribute to the world. We're sure you too!
+
+If you think this free software is helpful to you, please give us a star.
 
 ![Watch our community](https://user-images.githubusercontent.com/79301703/182365526-df074c64-cee4-45f6-b8e0-b912f17332c6.gif)
