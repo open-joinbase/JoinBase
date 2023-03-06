@@ -56,6 +56,6 @@ It is recommended that users always use the latest release. Version compatibilit
 
 Our team loves what we create and contribute to the world. We're sure you too!
 
-If you think this free software is helpful to you, please give us a star.
+If you think the free JoinBase Community edition is helpful to you or to the world, just give us a star. 
 
-![Watch our community](https://user-images.githubusercontent.com/79301703/182365526-df074c64-cee4-45f6-b8e0-b912f17332c6.gif)
+> Having you by our side gives us with courage to bring more innovation and change to the world.
